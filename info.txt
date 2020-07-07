@@ -1,0 +1,6 @@
+
+
+1. create a log-group
+2. create a log stream
+3. create a metric filter and set the metric value
+4. create an alarm, set the value greater than the metric value
